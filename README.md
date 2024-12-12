@@ -8,6 +8,12 @@ Versão web:
 
 https://github.com/user-attachments/assets/3fe4eeb2-883d-4e76-8142-4c83561c7358
 
+
+Versão mobile utilizando o Expo Go:
+
+https://github.com/user-attachments/assets/3e06c68c-6886-44f9-a601-44715288fcd5
+
+
 ===========================================================================
 
 Tecnologias utilizadas:
