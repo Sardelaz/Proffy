@@ -4,6 +4,10 @@ Proffy
 
 Proffy é um projeto desenvolvido durante as aulas do Curso da RocketSeat, o NLW2 (Next Level Week 2), onde foi criada uma aplicação que conecta professores e alunos, permitindo que o aluno contrate o professor.
 
+Versão web:
+
+https://github.com/user-attachments/assets/3fe4eeb2-883d-4e76-8142-4c83561c7358
+
 ===========================================================================
 
 Tecnologias utilizadas:
